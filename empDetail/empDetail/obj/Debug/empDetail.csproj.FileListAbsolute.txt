@@ -1,0 +1,6 @@
+c:\users\rathod_m\documents\visual studio 2015\Projects\empDetail\empDetail\bin\Debug\empDetail.exe.config
+c:\users\rathod_m\documents\visual studio 2015\Projects\empDetail\empDetail\bin\Debug\empDetail.exe
+c:\users\rathod_m\documents\visual studio 2015\Projects\empDetail\empDetail\bin\Debug\empDetail.pdb
+c:\users\rathod_m\documents\visual studio 2015\Projects\empDetail\empDetail\obj\Debug\empDetail.csprojResolveAssemblyReference.cache
+c:\users\rathod_m\documents\visual studio 2015\Projects\empDetail\empDetail\obj\Debug\empDetail.exe
+c:\users\rathod_m\documents\visual studio 2015\Projects\empDetail\empDetail\obj\Debug\empDetail.pdb

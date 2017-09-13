@@ -1,0 +1,6 @@
+c:\users\rathod_m\documents\visual studio 2015\Projects\Bird\Bird\bin\Debug\Bird.exe.config
+c:\users\rathod_m\documents\visual studio 2015\Projects\Bird\Bird\bin\Debug\Bird.exe
+c:\users\rathod_m\documents\visual studio 2015\Projects\Bird\Bird\bin\Debug\Bird.pdb
+c:\users\rathod_m\documents\visual studio 2015\Projects\Bird\Bird\obj\Debug\Bird.csprojResolveAssemblyReference.cache
+c:\users\rathod_m\documents\visual studio 2015\Projects\Bird\Bird\obj\Debug\Bird.exe
+c:\users\rathod_m\documents\visual studio 2015\Projects\Bird\Bird\obj\Debug\Bird.pdb

@@ -1,0 +1,6 @@
+c:\users\rathod_m\documents\visual studio 2015\Projects\vowelorConsonant\vowelorConsonant\bin\Debug\vowelorConsonant.exe.config
+c:\users\rathod_m\documents\visual studio 2015\Projects\vowelorConsonant\vowelorConsonant\bin\Debug\vowelorConsonant.exe
+c:\users\rathod_m\documents\visual studio 2015\Projects\vowelorConsonant\vowelorConsonant\bin\Debug\vowelorConsonant.pdb
+c:\users\rathod_m\documents\visual studio 2015\Projects\vowelorConsonant\vowelorConsonant\obj\Debug\vowelorConsonant.csprojResolveAssemblyReference.cache
+c:\users\rathod_m\documents\visual studio 2015\Projects\vowelorConsonant\vowelorConsonant\obj\Debug\vowelorConsonant.exe
+c:\users\rathod_m\documents\visual studio 2015\Projects\vowelorConsonant\vowelorConsonant\obj\Debug\vowelorConsonant.pdb

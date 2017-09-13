@@ -1,0 +1,2 @@
+c:\users\rathod_m\documents\visual studio 2015\Projects\inheritance\inheritance\bin\Debug\inheritance.exe.config
+c:\users\rathod_m\documents\visual studio 2015\Projects\inheritance\inheritance\obj\Debug\inheritance.csprojResolveAssemblyReference.cache

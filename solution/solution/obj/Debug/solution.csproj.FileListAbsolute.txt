@@ -1,0 +1,6 @@
+c:\users\rathod_m\documents\visual studio 2015\Projects\solution\solution\bin\Debug\solution.exe.config
+c:\users\rathod_m\documents\visual studio 2015\Projects\solution\solution\bin\Debug\solution.exe
+c:\users\rathod_m\documents\visual studio 2015\Projects\solution\solution\bin\Debug\solution.pdb
+c:\users\rathod_m\documents\visual studio 2015\Projects\solution\solution\obj\Debug\solution.csprojResolveAssemblyReference.cache
+c:\users\rathod_m\documents\visual studio 2015\Projects\solution\solution\obj\Debug\solution.exe
+c:\users\rathod_m\documents\visual studio 2015\Projects\solution\solution\obj\Debug\solution.pdb

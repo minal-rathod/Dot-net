@@ -1,0 +1,6 @@
+c:\users\rathod_m\documents\visual studio 2015\Projects\patternNumbers\patternNumbers\bin\Debug\patternNumbers.exe.config
+c:\users\rathod_m\documents\visual studio 2015\Projects\patternNumbers\patternNumbers\bin\Debug\patternNumbers.exe
+c:\users\rathod_m\documents\visual studio 2015\Projects\patternNumbers\patternNumbers\bin\Debug\patternNumbers.pdb
+c:\users\rathod_m\documents\visual studio 2015\Projects\patternNumbers\patternNumbers\obj\Debug\patternNumbers.csprojResolveAssemblyReference.cache
+c:\users\rathod_m\documents\visual studio 2015\Projects\patternNumbers\patternNumbers\obj\Debug\patternNumbers.exe
+c:\users\rathod_m\documents\visual studio 2015\Projects\patternNumbers\patternNumbers\obj\Debug\patternNumbers.pdb

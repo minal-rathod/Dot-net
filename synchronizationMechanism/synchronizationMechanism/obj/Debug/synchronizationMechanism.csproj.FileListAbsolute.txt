@@ -1,0 +1,5 @@
+c:\users\rathod_m\documents\visual studio 2015\Projects\synchronizationMechanism\synchronizationMechanism\bin\Debug\synchronizationMechanism.exe.config
+c:\users\rathod_m\documents\visual studio 2015\Projects\synchronizationMechanism\synchronizationMechanism\bin\Debug\synchronizationMechanism.exe
+c:\users\rathod_m\documents\visual studio 2015\Projects\synchronizationMechanism\synchronizationMechanism\bin\Debug\synchronizationMechanism.pdb
+c:\users\rathod_m\documents\visual studio 2015\Projects\synchronizationMechanism\synchronizationMechanism\obj\Debug\synchronizationMechanism.exe
+c:\users\rathod_m\documents\visual studio 2015\Projects\synchronizationMechanism\synchronizationMechanism\obj\Debug\synchronizationMechanism.pdb

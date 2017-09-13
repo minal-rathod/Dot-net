@@ -1,0 +1,6 @@
+c:\users\rathod_m\documents\visual studio 2015\Projects\addPrime\addPrime\bin\Debug\addPrime.exe.config
+c:\users\rathod_m\documents\visual studio 2015\Projects\addPrime\addPrime\bin\Debug\addPrime.exe
+c:\users\rathod_m\documents\visual studio 2015\Projects\addPrime\addPrime\bin\Debug\addPrime.pdb
+c:\users\rathod_m\documents\visual studio 2015\Projects\addPrime\addPrime\obj\Debug\addPrime.csprojResolveAssemblyReference.cache
+c:\users\rathod_m\documents\visual studio 2015\Projects\addPrime\addPrime\obj\Debug\addPrime.exe
+c:\users\rathod_m\documents\visual studio 2015\Projects\addPrime\addPrime\obj\Debug\addPrime.pdb

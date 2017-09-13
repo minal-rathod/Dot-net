@@ -1,0 +1,6 @@
+c:\users\rathod_m\documents\visual studio 2015\Projects\DemoNamespaces\DemoNamespaces\bin\Debug\DemoNamespaces.exe.config
+c:\users\rathod_m\documents\visual studio 2015\Projects\DemoNamespaces\DemoNamespaces\bin\Debug\DemoNamespaces.exe
+c:\users\rathod_m\documents\visual studio 2015\Projects\DemoNamespaces\DemoNamespaces\bin\Debug\DemoNamespaces.pdb
+c:\users\rathod_m\documents\visual studio 2015\Projects\DemoNamespaces\DemoNamespaces\obj\Debug\DemoNamespaces.csprojResolveAssemblyReference.cache
+c:\users\rathod_m\documents\visual studio 2015\Projects\DemoNamespaces\DemoNamespaces\obj\Debug\DemoNamespaces.exe
+c:\users\rathod_m\documents\visual studio 2015\Projects\DemoNamespaces\DemoNamespaces\obj\Debug\DemoNamespaces.pdb

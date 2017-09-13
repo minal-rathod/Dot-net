@@ -1,0 +1,5 @@
+c:\users\rathod_m\documents\visual studio 2015\Projects\replaceWhitespaces\replaceWhitespaces\bin\Debug\replaceWhitespaces.exe.config
+c:\users\rathod_m\documents\visual studio 2015\Projects\replaceWhitespaces\replaceWhitespaces\bin\Debug\replaceWhitespaces.exe
+c:\users\rathod_m\documents\visual studio 2015\Projects\replaceWhitespaces\replaceWhitespaces\bin\Debug\replaceWhitespaces.pdb
+c:\users\rathod_m\documents\visual studio 2015\Projects\replaceWhitespaces\replaceWhitespaces\obj\Debug\replaceWhitespaces.exe
+c:\users\rathod_m\documents\visual studio 2015\Projects\replaceWhitespaces\replaceWhitespaces\obj\Debug\replaceWhitespaces.pdb

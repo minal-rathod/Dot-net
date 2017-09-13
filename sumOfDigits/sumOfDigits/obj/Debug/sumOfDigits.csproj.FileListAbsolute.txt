@@ -1,0 +1,5 @@
+c:\users\rathod_m\documents\visual studio 2015\Projects\sumOfDigits\sumOfDigits\bin\Debug\sumOfDigits.exe.config
+c:\users\rathod_m\documents\visual studio 2015\Projects\sumOfDigits\sumOfDigits\bin\Debug\sumOfDigits.exe
+c:\users\rathod_m\documents\visual studio 2015\Projects\sumOfDigits\sumOfDigits\bin\Debug\sumOfDigits.pdb
+c:\users\rathod_m\documents\visual studio 2015\Projects\sumOfDigits\sumOfDigits\obj\Debug\sumOfDigits.exe
+c:\users\rathod_m\documents\visual studio 2015\Projects\sumOfDigits\sumOfDigits\obj\Debug\sumOfDigits.pdb
